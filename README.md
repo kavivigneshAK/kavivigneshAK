@@ -109,7 +109,7 @@ I've been a finalist at Mumbai Hacks 2025 (3000+ competing teams) and the PALSIn
 
 ## 🏆 Achievements
 
-| Recognition | Details |
+| Recognition | Details 
 |---|---|
 | 🏅 Finalist — PALSInnowah Hackathon 2025 | Built SkillBridgeAI, an AI employability platform |
 | 🏅 Finalist — Mumbai Hacks 2025 | Shortlisted among 3000+ competing teams |
