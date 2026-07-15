@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kavivignesh A K 👋 
+# Hi, I'm Kavivignesh A K 👋
 
 ### AI Engineer · Full-Stack Developer · Building at the Edge of ML & Product
 
